@@ -6,7 +6,7 @@
 
 <p align="center">
   Hi there! I'm Daniel, a software developer passionate about building web applications with React, Next.js, and Firebase.
-  Currently, I'm also diving into the world of React Native and exploring mobile app development.
+  Currently, I'm also diving into the world of Typescript, React Native and exploring mobile app development.
 </p>
 
 <h2 align="center">Technologies I Work With:</h2>
