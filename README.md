@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat" alt="Email">
   </a>
   <a href="https://danielcodes-seven.vercel.app/">
-    <img src="https://img.shields.io/badge/Bag?logo=gmail&logoColor=white&style=flat" alt="Portfolio">
+     <img src="https://img.shields.io/badge/EmailJS-2B2B2B?logo=Portfolio&logoColor=white&style=flat" alt="Portfolio">
   </a>
 </p>
 <h2 align="center">GitHub Streak</h2>
