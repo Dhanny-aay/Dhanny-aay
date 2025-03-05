@@ -7,7 +7,7 @@
 <p align="center">  
   Hi there! I'm Daniel, a software developer with 3 years of experience, driven by a "it's just code" approach—making me incredibly flexible and open to challenges.  
   I love building web applications with React, Next.js, and Firebase, and I’m always eager to learn and explore new technologies.  
-  Currently, I’m learning Web3 development, working on Cyfin Updraft, and building a real-time chat feature for a map!  
+  Currently, I’m learning Web3 development, working on Cyfin Updraft, and building a real-time chat feature for a mvp!  
 </p>  
   
 <h2 align="center">Technologies I Work With:</h2>  
