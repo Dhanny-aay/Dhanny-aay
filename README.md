@@ -29,7 +29,7 @@ This section pairs my large-scale production work with the public code blueprint
 | **Savetown (Digital Co-op)** | Lead Front-End Dev on a home-ownership co-operative. | [savetown.com](https://savetown.com) | 💬 **WebSockets** implementation for real-time chat (my first pro experience). | [Chat Module Repo](https://github.com/Dhanny-aay/savetown-websocket-chat-module) |
 | **Zobering (Global E-Com)** | Multi-country e-commerce platform. | [zobering.com](https://zobering.com) | 💸 Dynamic **multi-currency** cart and seamless Stripe/Paystack integration. | [Checkout POC Repo](https://github.com/Dhanny-aay/zobering-multi-currency-checkout-poc) |
 | **Sacafootball (Booking/E-Com)** | Sole Front-End Dev for the public site and admin dashboard. | [sacafootball.com](https://sacafootball.com) | 🧠 Intelligent, conflict-prevention booking engine with complex validation. | [Booking Logic Repo](https://github.com/Dhanny-aay/sacafootball-booking-engine-logic) |
-| **Boiler PWA Template** (Open Source) | A template for scalable, offline-ready dashboards built with React/TS/Next.js. | [boiler-tan.vercel.app/](https://boiler-tan.vercel.app/) | **TypeScript** strict mode and Service Worker implementation for offline caching. | [Go to Repo](https://github.com/Dhanny-aay/ts-next-pwa-dashboard) |
+| **Boiler PWA Template** (Open Source) | A template for scalable, offline-ready dashboards built with React/TS/Next.js. | [boiler-tan.vercel.app/](https://boiler-tan.vercel.app/) | **TypeScript** strict mode and Service Worker implementation for offline caching. | [Go to Repo](https://github.com/Dhanny-aay/boiler) |
 
 ---
 
